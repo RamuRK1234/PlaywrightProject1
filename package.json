@@ -6,9 +6,25 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.54.1",
+    "@playwright/test": "^1.54.2",
     "@types/node": "^24.1.0"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.54.1",
+    "playwright-core": "^1.54.1",
+    "undici-types": "^7.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamuRK1234/PlaywrightProject1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RamuRK1234/PlaywrightProject1/issues"
+  },
+  "homepage": "https://github.com/RamuRK1234/PlaywrightProject1#readme",
+  "description": ""
 }
